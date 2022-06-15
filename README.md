@@ -3,11 +3,13 @@
   <img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" width="100"/>
 </div>
 <div id="badges">
+<div id="badges">
 Badge"/>
   </a>
   <a href=" https://twitter.com/mishakakdela">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
 
 <!--
 **Muzic13/muzic13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
